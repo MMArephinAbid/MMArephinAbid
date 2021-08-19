@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@arephin_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@arephin_m" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/m m arephin abid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m m arephin abid" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mmarephinabid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmarephinabid" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14687375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14687375" height="30" width="40" /></a>
 <a href="https://instagram.com/arephinabid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arephinabid" height="30" width="40" /></a>
 </p>
@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmarephinabid&show_icons=true&locale=en" alt="mmarephinabid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmarephinabid&" alt="mmarephinabid" /></p>
+
